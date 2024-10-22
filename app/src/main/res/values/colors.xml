@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- estilo de colores pasivo -->
+    <color name="purple_200">#FFBB86FC</color>
+    <color name="purple_500">#FF6200EE</color>
+    <color name="purple_700">#FF3700B3</color>
+    <color name="teal_200">#FF03DAC5</color>
+    <color name="teal_700">#FF018786</color>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+
+    <!-- ProyectoApp -->
+    <color name="proyecto_background_card">#FF081A4A</color>
+    <color name="proyecto_background_disabled">#787878</color>
+    <color name="proyecto_background_proyecto_app">#FF2D4993</color>
+    <color name="proyecto_subtitle_text">#959595</color>
+    <color name="proyecto_accent">#E91E63</color>
+    <color name="proyecto_fab_app">#662DCC</color>
+
+    <color name="proyecto_economía_category">#FF9800</color>
+    <color name="proyecto_medicina_category">#00BCD4</color>
+    <color name="proyecto_ingeniería_category">#4CAF50</color>
+    <color name="proyecto_magisterio_category">#9C27B0</color>
+    <color name="proyecto_periodismo_category">#FF5722</color>
+    <color name="proyecto_derecho_category">#009688</color>
+    <color name="proyecto_turismo_category">#2196F3</color>
+</resources>

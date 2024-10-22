@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Martindev</string>
+
+
+    <!--strings para proyecto app-->
+    <string name="proyecto_bienvenida">UniCheck</string>
+    <string name="proyecto_categorías">Categorías</string>
+    <string name="proyecto_selectividad">Nota de Selectividad</string>
+    <string name="proyecto_bachiller1">Nota 1º Bachiller</string>
+    <string name="proyecto_bachiller2">Nota 2º Bachiller</string>
+    <string name="proyecto_calculador">Calcular</string>
+    <string name="proyecto_reCalculador">Recalcular</string>
+    <string name="proyecto_resultado">Tu Resultado</string>
+
+</resources>
